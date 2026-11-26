@@ -1,5 +1,5 @@
 # Projeto-e-Banco-de-dados
-Parte 2 projeto de cadastro de alunos integrado ao banco de dados.
+Parte 2 - Projeto de cadastro de alunos, integrado ao banco de dados.
 
 1- João Renato Freire de Siqueira - 01874390
 
